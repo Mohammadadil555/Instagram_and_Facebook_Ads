@@ -9,6 +9,7 @@ The Facebook Ads dashboard recorded a strong total of 216.0K impressions with 25
 📸 Instagram — Impressions View
 
 The Instagram Ads dashboard showed 123.8K impressions with 14.7K clicks and a slightly higher CTR of 11.86%. Engagements were recorded at 16.8K with an Engagement Rate of 13.60%, Conversion Rate at 4.82%, and Purchase Rate at 0.57% from 708 purchases. Shares reached 682 and Comments totalled 1.5K, with the same total budget of $2.5M maintained. Female users again led impressions significantly at 46.1K versus males at 32.2K, and the 20–30 age group generated the highest impression volume 📊. The United States topped country impressions at 11.7K, followed by UK at 5.8K and Canada at 3.8K. The Carousel format led impressions at 38.9K with a solid Conversion Rate of 5.23%, proving it the strongest format on Instagram 🎯.
+<img width="1349" height="742" alt="Screenshot 2026-04-30 215947" src="https://github.com/user-attachments/assets/aecd17b2-23e4-4a7f-adcf-e2c42890c756" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Conclusion
